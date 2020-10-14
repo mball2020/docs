@@ -2,9 +2,9 @@
 sidebar: auto
 ---
 
-# Config
+# 등록
 
-## foo
+## 등록 방법
 
 - Type: `string`
 - Default: `/`

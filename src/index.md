@@ -1,15 +1,9 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: The webpage for MBALL Conference 2020.
-actionText: Quick Start →
-actionLink: /guide/
-features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+tagline: 현대영미어문학회 학술대회
+actionText: Program →
+actionLink: /program/
 footer: Copyright © 2020 The Modern British & American Language & Literature Circle
 ---
+
+2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 2020년도 MBALL 학술대회입니다. 

@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'MBALL 2020',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,26 +34,26 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'Program',
+        link: '/program/',
       },
       {
-        text: 'Config',
-        link: '/config/'
+        text: 'Registration',
+        link: '/registration/'
       },
       {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Proceedings',
+        link: '/'
       }
     ],
     sidebar: {
-      '/guide/': [
+      '/program/': [
         {
-          title: 'Guide',
+          title: '프로그램',
           collapsable: false,
           children: [
             '',
-            'using-vue',
+            'notice',
           ]
         }
       ],
