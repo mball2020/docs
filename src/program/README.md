@@ -17,10 +17,10 @@ sidebar: auto
   </colgroup>
     <thead>
         <tr class="t-section">
-            <th colspan="2" style="min-width:90px">분과</th>
-            <th style="min-width:110px">영문학</th>
-            <th style="min-width:110px">영어학</th>
-            <th style="min-width:110px">영어교육</th>
+            <th colspan="2" style="min-width:70px">분과</th>
+            <th style="min-width:90px">영문학</th>
+            <th style="min-width:90px">영어학</th>
+            <th style="min-width:90px">영어교육</th>
         </tr>
     </thead>
     <tbody>
