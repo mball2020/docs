@@ -34,30 +34,10 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Program',
+        text: '프로그램',
         link: '/program/',
       },
-      {
-        text: 'Registration',
-        link: '/registration/'
-      },
-      {
-        text: 'Proceedings',
-        link: '/'
-      }
     ],
-    sidebar: {
-      '/program/': [
-        {
-          title: '프로그램',
-          collapsable: false,
-          children: [
-            '',
-            'notice',
-          ]
-        }
-      ],
-    }
   },
 
   /**
