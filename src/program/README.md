@@ -35,27 +35,27 @@ sidebar: auto
             <td rowspan="4" class="t-section">제1발표/<br>토론<br><br>13:00<br>-<br>13:30</td>
             <td class="t-section">제목</td>
             <td><span class="box">학문후속세대발표</span><br>Biblical Reading of Macbeth: Focus on the existence and the life</td>
-            <td><span class="box">학문후속세대발표</span><br>A Comparative Semantic Analysis of Again and Yana in Uzbek</td>
-            <td>Implementing Peer Feedback and Teacher Feedback Activities into EFL College Writing Class</td>
+            <td>A Study of 4 Types of English Non-canonical Constructions: From the locativity and gradience perspectives</td>
+            <td>쓰기 장르와 작문 방식에 따른 EFL 학습자의 영어 작문 오류 분석</td>
         </tr>
         <tr class="">
             <td class="t-section">발표자</td>
             <td>최희독 (경상대)</td>
-            <td>Shokhsanamkhon Mirzaeva (경상대)</td>
-            <td>이유화 & 이영해 (계명대)</td>
+            <td>안병길 (경남과기대)</td>
+            <td>이정원 (충남대)</td>
         </tr>
         </tr>
             <tr class="">
             <td class="t-section">발표자료</td>
-            <td><a href="/lit/1_문학_최희독.pdf"target="_blank">원고📄</a></td>
-            <td><a href="/lin/1_어학_Shokhsanamkhon_Mirzaeva.pdf"target="_blank">원고📄</a></td>
-            <td></td>
+            <td><a href="/doc/1_문학_최희독.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
+            <td><a href="/doc/1_어학_안병길.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>  
+            <td><a href="/doc/1_영어교육_이정원.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>    
         </tr>
         <tr class="">
-            <td class="t-section">토론자</td>
+            <td class="t-section">발표영상</td>
             <td></td>
             <td></td>
-            <td></td>
+            <td><a href="https://youtube.com/embed/xmn4FaLiaPU" target="_blank">영상 <i class="fab fa-youtube-square"></i></a></td>
         </tr>
         <!-- 제2발표 -->
         <tr class="t-sepline">
@@ -73,12 +73,12 @@ sidebar: auto
         </tr>
             <tr class="">
             <td class="t-section">발표자료</td>
-            <td><a href="/lit/2_문학_박진임.pdf"target="_blank">원고📄</a></td>
-            <td><a href="/lin/2_어학_강선옥.pdf"target="_blank">원고📄</a></td>
-            <td><a href="/edu/2_영어교육_조윤경.pdf"target="_blank">원고📄</a></td>
+            <td><a href="/doc/2_문학_박진임.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
+            <td><a href="/doc/2_어학_강선옥.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
+            <td><a href="/doc/2_영어교육_조윤경.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
         </tr>
         <tr class="">
-            <td class="t-section">토론자</td>
+            <td class="t-section">발표영상</td>
             <td></td>
             <td></td>
             <td></td>
@@ -88,24 +88,24 @@ sidebar: auto
             <td rowspan="4" class="t-section">제3발표/<br>토론<br><br>14:00<br>-<br>14:30</td>
             <td class="t-section">제목</td>
             <td><span class="box">학문후속세대발표</span><br>The Identity of Creatures in The Island of Dr.Moreau from Posthumanist Perspective</td>
-            <td><span class="box">학문후속세대발표</span><br>이중 목적어 구문과 전치사 여격 구문에서 pair-list reading에 관한 연구 </td>
-            <td>쓰기 장르와 작문 방식에 따른 EFL 학습자의 영어 작문 오류 분석</td>
+            <td><span class="box">학문후속세대발표</span><br>이중 목적어 구문과 전치사 여격 구문에서 pair-list reading에 관한 연구</td>
+            <td>Implementing Peer Feedback and Teacher Feedback Activities into EFL College Writing Class</td>
         </tr>
         <tr class="">
             <td class="t-section">발표자</td>
             <td>서침 (경상대)</td>
             <td>김경희 (경상대)</td>
-            <td>이정원 (충남대)</td>
+            <td>이유화 & 이영해 (계명대)</td>
         </tr>
             <tr class="">
             <td class="t-section">발표자료</td>
-            <td><a href="/lit/3_문학_서침.pdf"target="_blank">원고📄</a></td>
-            <td><a href="/lin/3_어학_김경희.pdf"target="_blank">원고📄</a></td>
-            <td><a href="/edu/3_영어교육_이정원.pdf"target="_blank">원고📄</a></td>
+            <td><a href="/doc/3_문학_서침.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
+            <td><a href="/doc/3_어학_김경희.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
+            <td><a href="/doc/3_영어교육_이유화.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
         </tr>
         <tr class="">
-            <td class="t-section">토론자</td>
-            <td></td>
+            <td class="t-section">발표영상</td>
+            <td><a href="https://drive.google.com/file/d/1tZEzfi50nlXJpLzv9kU01VLxHB5K0od2/view" target="_blank">영상 <i class="fab fa-youtube-square"></i></a></td>
             <td></td>
             <td></td>
         </tr>
@@ -126,37 +126,37 @@ sidebar: auto
             <tr class="">
             <td class="t-section">발표자료</td>
             <td></td>
-            <td><a href="/lin/4_어학_이희정.pdf"target="_blank">원고📄</a></td>
-            <td><a href="/edu/4_영어교육_Lee_and_Pak.pdf"target="_blank">원고📄</a></td>
+            <td><a href="/doc/4_어학_이희정.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
+            <td><a href="/doc/4_영어교육_Lee_and_Pak.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
         </tr>
         <tr class="">
-            <td class="t-section">토론자</td>
+            <td class="t-section">발표영상</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td><a href="https://youtube.com/embed/kK5BxjirZ_E" target="_blank">영상 <i class="fab fa-youtube-square"></i></a></td>
+            <td><a href="https://youtube.com/embed/77vaUccA0us" target="_blank">영상 <i class="fab fa-youtube-square"></i></a></td>
         </tr>
         <!-- 제5발표 -->
         <tr class="t-sepline">
             <td rowspan="4" class="t-section">제5발표/<br>토론<br><br>15:00<br>-<br>15:30</td>
             <td class="t-section">제목</td>
-            <td><span class="box">학문후속세대발표</span><br></td>
-            <td>Locative vs. Inversive vs. Existential Constructions: Gradience perspective</td>
-            <td></td>
+            <td><span class="box">학문후속세대발표</span><br>자메이카 킨케이드의 『루시』속 사진의 상징성</td>
+            <td><span class="box">학문후속세대발표</span><br>A Comparative Semantic Analysis of Again and Yana in Uzbek</td>
+            <td>한국형 영어학습동기의 3요소: 필요성, 성실성, 실패내성</td>
         </tr>
         <tr class="">
             <td class="t-section">발표자</td>
             <td>박선희 (창원대)</td>
-            <td>안병길 (경남과기대)</td>
+            <td>Shokhsanamkhon Mirzaeva (경상대)</td>
             <td>배대권 (경남과기대)</td>
         </tr>
             <tr class="">
             <td class="t-section">발표자료</td>
-            <td></td>
-            <td></td>
-            <td></td>
+            <td><a href="/doc/5_문학_박선희.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
+            <td><a href="/doc/5_어학_ Shokhsanamkhon_Mirzaeva.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
+            <td><a href="/doc/5_영어교육_배대권.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
         </tr>
         <tr class="">
-            <td class="t-section">토론자</td>
+            <td class="t-section">발표영상</td>
             <td></td>
             <td></td>
             <td></td>
@@ -177,12 +177,12 @@ sidebar: auto
         </tr>
             <tr class="">
             <td class="t-section">발표자료</td>
-            <td><a href="/lit/6_문학_장은주.pdf"target="_blank">원고📄</a></td>
+            <td><a href="/doc/6_문학_장은주.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
             <td></td>
             <td></td>
         </tr>
         <tr class="">
-            <td class="t-section">토론자</td>
+            <td class="t-section">발표영상</td>
             <td></td>
             <td></td>
             <td></td>
@@ -203,12 +203,12 @@ sidebar: auto
         </tr>
             <tr class="">
             <td class="t-section">발표자료</td>
-            <td><a href="/lit/7_문학_염수근.pdf"target="_blank">원고📄</a></td>
+            <td><a href="/doc/7_문학_염수근.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
             <td></td>
             <td></td>
         </tr>
         <tr class="">
-            <td class="t-section">토론자</td>
+            <td class="t-section">발표영상</td>
             <td></td>
             <td></td>
             <td></td>
@@ -229,9 +229,10 @@ sidebar: auto
 
 [https://zoom.us/j/94959586919?pwd=N3ZvL0pnOXkwY0wxS0l5VVNMNExJZz09](https://zoom.us/j/94959586919?pwd=N3ZvL0pnOXkwY0wxS0l5VVNMNExJZz09)
 
-
 #### 영어학 분과
 
 [https://zoom.us/j/98186082109](https://zoom.us/j/98186082109)
 
 #### 영어교육 분과
+
+[https://us02web.zoom.us/j/3246544519](https://us02web.zoom.us/j/3246544519)
