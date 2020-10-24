@@ -38,6 +38,10 @@ module.exports = {
         text: '프로그램',
         link: '/program/',
       },
+      {
+        text: '현대영미어문학회',
+        link: 'http://www.mball.or.kr',
+      },
     ],
   },
 
