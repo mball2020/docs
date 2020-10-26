@@ -79,8 +79,8 @@ sidebar: auto
         </tr>
         <tr class="">
             <td class="t-section">발표영상</td>
-            <td></td>
-            <td></td>
+            <td><a href="https://youtube.com/embed/e63BjsY4rSw" target="_blank">영상 <i class="fab fa-youtube-square"></i></a></td>
+            <td><a href="https://youtube.com/embed/Wu4Jf7w-smA" target="_blank">영상 <i class="fab fa-youtube-square"></i></a></td>
             <td></td>
         </tr>
         <!-- 제3발표 -->
@@ -158,8 +158,8 @@ sidebar: auto
         <tr class="">
             <td class="t-section">발표영상</td>
             <td></td>
-            <td></td>
-            <td></td>
+            <td><a href="https://youtube.com/embed/l1v5VvR1zOU" target="_blank">영상 <i class="fab fa-youtube-square"></i></a></td>
+            <td><a href="https://youtube.com/embed/CdYokB8-tuk" target="_blank">영상 <i class="fab fa-youtube-square"></i></a></td>
         </tr>
         <!-- 제6발표 -->
         <tr class="t-sepline">
