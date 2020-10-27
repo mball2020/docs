@@ -125,7 +125,7 @@ sidebar: auto
         </tr>
             <tr class="">
             <td class="t-section">발표자료</td>
-            <td></td>
+            <td><a href="/doc/4_문학_YegnayevaZh.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
             <td><a href="/doc/4_어학_이희정.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
             <td><a href="/doc/4_영어교육_Lee_and_Pak.pdf"target="_blank">원고 <i class="fas fa-file-pdf"></i></a></td>
         </tr>
